@@ -1,4 +1,4 @@
-# TikTok Unrepost
+# TikTok Unrepost https://bkovalev841-source.github.io/tiktok-unrepost/
 
 Кнопка-закладка (bookmarklet), которая удаляет все репосты со своего профиля в TikTok.
 
